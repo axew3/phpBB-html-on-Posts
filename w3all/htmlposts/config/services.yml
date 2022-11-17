@@ -1,0 +1,7 @@
+services:
+    w3all.htmlposts.listener:
+        class: w3all\htmlposts\event\main_listener
+        arguments:
+            - '@dbal.conn'
+        tags:
+            - { name: event.listener }
