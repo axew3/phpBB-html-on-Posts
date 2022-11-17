@@ -44,7 +44,7 @@ class main_listener implements EventSubscriberInterface
 
        if( $row['group_id'] == 5 ) // only admins can add posts that after can be parsed. Add more groupsIDS here if you want
        {
-         // ** the HTMLMARKUP placeholder can be changed into something custom 
+         // ** the [HTMLMARKUP] placeholder can be changed into something custom 
          // this just avoid that nobody but who know it, can add the magic word, into a post that by the way, will never be parsed as HTML if the user do not belong to specified group
          
          // NOTE: if we want to display/render (not parse) some active bbcode like [b], then entities should be used 
