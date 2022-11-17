@@ -3,7 +3,7 @@
  *
  * HTML on posts. An extension for the phpBB Forum Software package.
  *
- * @copyright (c) 2022
+ * @copyright (c) 2022 axew3.com
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
