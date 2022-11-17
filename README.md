@@ -6,6 +6,8 @@ Copy the extension to phpBB/ext/w3all/htmlposts
 
 Go to "ACP" > "Customise" > "Extensions" and enable the "Html posts" extension.
 
+## How to use
+
 By default, only users that belong to the GroupID 5 (admins) will have the capability to post an HTML content that so will be parsed as html.
 It is required that the very first post line content, start with 
 
