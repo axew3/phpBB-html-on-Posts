@@ -2,9 +2,9 @@
 
 ## Installation
 
-Copy the extension to phpBB/ext/w3all/w3wpcommon
+Copy the extension to phpBB/ext/w3all/htmlposts
 
-Go to "ACP" > "Customise" > "Extensions" and enable the "w3 WP common" extension.
+Go to "ACP" > "Customise" > "Extensions" and enable the "Html posts" extension.
 
 ## License
 
