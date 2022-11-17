@@ -19,6 +19,9 @@ or the post content will not be parsed as HTML.
 #### NOTE: if a single bbcode is found into the post text, then the post will not be parsed as HTML due to generate_text_for_display() that fire after on viewtopic.php
 
 
+See example: https://www.axew3.com/w3/forums/viewtopic.php?t=1767
+
+
 ## License
 
 [GNU General Public License v2](license.txt)
