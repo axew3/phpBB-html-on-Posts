@@ -8,8 +8,8 @@ Go to "ACP" > "Customise" > "Extensions" and enable the "Html posts" extension.
 
 ## How to use
 
-By default, only users that belong to the GroupID 5 (admins) will have the capability to post an HTML content that so will be parsed as html.
-It is required that the very first post line content, start with (can be changed into listeners code into a custom one) this placeholder:
+By default, only users that belong to the GroupID 5 (admins) (can be added more into listener code) will have the capability to post an HTML content that so will be parsed as html.
+It is required that the very first post line content, start with (can be changed into listener code into a custom one) this placeholder (if you do not change it into listener):
 
     [HTMLMARKUP]
     
