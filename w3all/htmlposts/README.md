@@ -1,4 +1,4 @@
-# (c) axew3.com phpBB HTML on posts
+# phpBB HTML on posts
 
 ## Installation
 
