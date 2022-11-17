@@ -1,4 +1,4 @@
-# w3 WP common
+# (c) axew3.com phpBB HTML on posts
 
 ## Installation
 
