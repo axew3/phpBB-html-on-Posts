@@ -1,6 +1,6 @@
 # phpBB HTML on posts
 
-## Download new 1.0.1 here: https://www.axew3.com/w3/forums/viewtopic.php?t=1767
+## Download new 1.0.1 here: https://www.axew3.com/w3/forums/viewtopic.php?t=1776
 
 ## Installation
 
