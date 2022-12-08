@@ -1,5 +1,7 @@
 # phpBB HTML on posts
 
+## Download new 1.0.1 here: https://www.axew3.com/w3/forums/viewtopic.php?t=1767
+
 ## Installation
 
 Copy the extension to phpBB/ext/w3all/htmlposts
