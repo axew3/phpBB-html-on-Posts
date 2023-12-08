@@ -20,7 +20,7 @@ or the post content will not be parsed as HTML.
      &#91;b&#93; test me i want to show bbcode tags &#91;/b&#93;  <- will return ->  [b] test me i want to show bbcode tags [/b]
 #### NOTE: if a single bbcode or smile is found into the post text, then the post will not be parsed as HTML due to generate_text_for_display() that fire after on viewtopic.php
 
-See example: https://www.axew3.com/w3/forums/viewtopic.php?t=1767
+See example: https://www.axew3.com/w3/forums/viewtopic.php?t=1776
 
 
 ## License
